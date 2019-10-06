@@ -1,0 +1,20 @@
+{
+  "CarDirection.CarBackward|block": "回去",
+  "CarDirection.CarForward|block": "前进",
+  "CarDirection.CarTurnLeft|block": "向左旋转",
+  "CarDirection.CarTurnRight|block": "向右旋转",
+  "sozoRobot.continuousRun|block": "连续运行 | %direction",
+  "sozoRobot.customBackwards|block": "回去（毫秒） %duration| 输出量（％） %powerAdjustmen",
+  "sozoRobot.customForwards|block": "前进（毫秒） %duration| 输出量（％） %powerAdjustment",
+  "sozoRobot.customLeft|block": "向左旋转（毫秒） %duration| 输出量（％） %powerAdjustment",
+  "sozoRobot.customRight|block": "向右旋转（毫秒） %duration| 输出量（％） %powerAdjustment",
+  "sozoRobot.driveBackwards|block": "回去（毫秒） %duration",
+  "sozoRobot.driveForwards|block": "前进（毫秒） %duration",
+  "sozoRobot.stop|block": "停下",
+  "sozoRobot.turnLeft|block": "向左旋转（毫秒） %duration",
+  "sozoRobot.turnRight|block": "向右旋转（毫秒） %duration",
+  "sozoRobot.wheelPin|block": "左轮销号 %leftPin| 右轮销号 %rightPin",
+  "sozoRobot.wheelSpeed|block": "左轮速度 %leftSpeed| 右轮速度 %rightSpeed",
+  "sozoRobot|block": "机械手",
+  "{id:category}SozoRobot": "SozoRobot"
+}

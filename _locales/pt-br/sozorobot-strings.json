@@ -1,0 +1,20 @@
+{
+  "CarDirection.CarBackward|block": "Voltar",
+  "CarDirection.CarForward|block": "Encaminhar",
+  "CarDirection.CarTurnLeft|block": "Rodar para a esquerda",
+  "CarDirection.CarTurnRight|block": "Rodar para a direita",
+  "sozoRobot.continuousRun|block": "Corrida contínua | %direction",
+  "sozoRobot.customBackwards|block": "Voltar（ms） %duration| Saída（％） %powerAdjustmen",
+  "sozoRobot.customForwards|block": "Encaminhar（ms） %duration| Saída（％） %powerAdjustment",
+  "sozoRobot.customLeft|block": "Rodar para a esquerda（ms） %duration| Saída（％） %powerAdjustment",
+  "sozoRobot.customRight|block": "Rodar para a direita（ms） %duration| Saída（％） %powerAdjustment",
+  "sozoRobot.driveBackwards|block": "Voltar（ms） %duration",
+  "sozoRobot.driveForwards|block": "Encaminhar（ms） %duration",
+  "sozoRobot.stop|block": "Parar",
+  "sozoRobot.turnLeft|block": "Rodar para a esquerda（ms） %duration",
+  "sozoRobot.turnRight|block": "Rodar para a direita（ms） %duration",
+  "sozoRobot.wheelPin|block": "Número do pino da roda esquerda %leftPin| Número do pino da roda direita %rightPin",
+  "sozoRobot.wheelSpeed|block": "Velocidade da roda esquerda %leftSpeed| Velocidade da roda direita %rightSpeed",
+  "sozoRobot|block": "Robot",
+  "{id:category}SozoRobot": "SozoRobot"
+}

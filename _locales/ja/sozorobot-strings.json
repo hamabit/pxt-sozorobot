@@ -1,0 +1,20 @@
+{
+  "CarDirection.CarBackward|block": "バック",
+  "CarDirection.CarForward|block": "前　進",
+  "CarDirection.CarTurnLeft|block": "左回転",
+  "CarDirection.CarTurnRight|block": "右回転",
+  "sozoRobot.continuousRun|block": "連続走行 | %direction",
+  "sozoRobot.customBackwards|block": "バック（ミリ秒） %duration| 出力（％） %powerAdjustmen",
+  "sozoRobot.customForwards|block": "前　進（ミリ秒） %duration| 出力（％） %powerAdjustment",
+  "sozoRobot.customLeft|block": "左回転（ミリ秒） %duration| 出力（％） %powerAdjustment",
+  "sozoRobot.customRight|block": "右回転（ミリ秒） %duration| 出力（％） %powerAdjustment",
+  "sozoRobot.driveBackwards|block": "バック（ミリ秒） %duration",
+  "sozoRobot.driveForwards|block": "前　進（ミリ秒） %duration",
+  "sozoRobot.stop|block": "ストップ",
+  "sozoRobot.turnLeft|block": "左回転（ミリ秒） %duration",
+  "sozoRobot.turnRight|block": "右回転（ミリ秒） %duration",
+  "sozoRobot.wheelPin|block": "左車輪のピン番号 %leftPin| 右車輪のピン番号 %rightPin",
+  "sozoRobot.wheelSpeed|block": "左車輪のスピード %leftSpeed| 右車輪のスピード %rightSpeed",
+  "sozoRobot|block": "ロボット",
+  "{id:category}SozoRobot": "SozoRobot"
+}

@@ -1,0 +1,20 @@
+{
+  "CarDirection.CarBackward|block": "백",
+  "CarDirection.CarForward|block": "전진",
+  "CarDirection.CarTurnLeft|block": "좌회전",
+  "CarDirection.CarTurnRight|block": "우회전",
+  "sozoRobot.continuousRun|block": "연속 주행 | %direction",
+  "sozoRobot.customBackwards|block": "백（ms） %duration| 출력（％） %powerAdjustmen",
+  "sozoRobot.customForwards|block": "전진（ms） %duration| 출력（％） %powerAdjustment",
+  "sozoRobot.customLeft|block": "좌회전（ms） %duration| 출력（％） %powerAdjustment",
+  "sozoRobot.customRight|block": "우회전（ms） %duration| 출력（％） %powerAdjustment",
+  "sozoRobot.driveBackwards|block": "백（ms） %duration",
+  "sozoRobot.driveForwards|block": "전진（ms） %duration",
+  "sozoRobot.stop|block": "정지",
+  "sozoRobot.turnLeft|block": "좌회전（ms） %duration",
+  "sozoRobot.turnRight|block": "우회전（ms） %duration",
+  "sozoRobot.wheelPin|block": "왼쪽 바퀴의 핀 번호 %leftPin| 오른쪽 바퀴의 핀 번호 %rightPin",
+  "sozoRobot.wheelSpeed|block": "왼쪽 바퀴의 속도 %leftSpeed| 오른쪽 바퀴의 속도 %rightSpeed",
+  "sozoRobot|block": "로봇",
+  "{id:category}SozoRobot": "SozoRobot"
+}

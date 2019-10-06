@@ -9,7 +9,19 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/ja/sozorobot-strings.json",
+        "_locales/ja/sozorobot-jsdoc-strings.json",
+        "_locales/pt-br/sozorobot-strings.json",
+        "_locales/pt-br/sozorobot-jsdoc-strings.json",
+        "_locales/pt-pt/sozorobot-strings.json",
+        "_locales/pt-pt/sozorobot-jsdoc-strings.json",
+        "_locales/ko/sozorobot-strings.json",
+        "_locales/ko/sozorobot-jsdoc-strings.json",
+        "_locales/zh-cn/sozorobot-strings.json",
+        "_locales/zh-cn/sozorobot-jsdoc-strings.json",
+        "_locales/zh-tw/sozorobot-strings.json",
+        "_locales/zh-tw/sozorobot-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
