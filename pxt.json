@@ -1,7 +1,8 @@
 {
     "name": "pxt-sozorobot",
     "version": "0.0.1",
-    "description": "",
+    "description": "My translated sozorobot extention for CCE hama:bit robot car",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "radio": "*"
@@ -13,6 +14,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "preferredEditor": "tsprj"
+    "public": true,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:71f76a19-1963-498a-6dcf-e2d88d718926"
 }
