@@ -1,6 +1,6 @@
 {
     "name": "pxt-sozorobot",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "My translated sozorobot extention for CCE hama:bit robot car",
     "license": "MIT",
     "dependencies": {
